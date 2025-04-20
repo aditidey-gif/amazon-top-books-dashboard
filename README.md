@@ -1,2 +1,11 @@
-# amazon-top-books-dashboard
-Excel dashboard of Amazon's Top 50 Best-Selling Books from 2009 to 2019
+# Amazon Top 50 Best-Selling Books Dashboard (2009–2019)
+
+This is an Excel dashboard analyzing the top 50 best-selling books on Amazon from 2009 to 2019.
+
+## Contents
+- Interactive charts
+- Filters by genre, author, and year
+- Insights on book sales trends
+
+📊 Built in Microsoft Excel
+
